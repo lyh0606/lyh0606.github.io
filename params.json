@@ -1,1 +1,1 @@
-{"name":"Lyh0606.GitHub.io","tagline":"轩辕怜惜","body":"```javascript\r\nfunction fancyAlert(arg) {\r\n  if(arg) {\r\n    $.facebox({div:'#foo'})  //哎哎哎\r\n  }\r\n}\r\n```","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{"name":"Lyh0606.GitHub.io","tagline":"轩辕怜惜","body":"```javascript\r\nfunction fancyAlert(arg) {\r\n  if(arg) {\r\n    $.facebox({div:'#foo'})  //哎哎哎的规定\r\n  }\r\n}\r\n```","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
